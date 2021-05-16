@@ -32,3 +32,16 @@ pip install -r requirements.txt
 flask run
 ```
 Then open your web browser and go to [localhost:5000](http://localhost:5000)
+
+## Screen Capture Home
+![Screenshot](img/Home.PNG)
+## Screen Capture How To Use
+![Screenshot](img/HowToUse.png)
+## Screen Capture About Us
+![Screenshot](img/AboutUs.png)
+## Screen Capture Local File IR
+![Screenshot](img/Local File.png)
+## Screen Capture Web Scraping IR
+![Screenshot](img/Web Scraping.png)
+## Screen Capture Open File
+![Screenshot](img/Opening File.png)
