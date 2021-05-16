@@ -38,10 +38,10 @@ Then open your web browser and go to [localhost:5000](http://localhost:5000)
 ## Screen Capture How To Use
 ![Screenshot](img/HowToUse.png)
 ## Screen Capture About Us
-![Screenshot](img/AboutUs.png)
+![Screenshot](img/AboutUs.PNG)
 ## Screen Capture Local File IR
-![Screenshot](img/Local File.png)
+![Screenshot](img/LocalFile.PNG)
 ## Screen Capture Web Scraping IR
-![Screenshot](img/Web Scraping.png)
+![Screenshot](img/WebScraping.PNG)
 ## Screen Capture Open File
-![Screenshot](img/Opening File.png)
+![Screenshot](img/OpeningFile.PNG)
